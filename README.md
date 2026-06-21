@@ -24,7 +24,7 @@ This project combines Power BI and Python to analyze retail sales data and forec
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](/dashboard.png)
 
 ## Revenue Forecast
 
