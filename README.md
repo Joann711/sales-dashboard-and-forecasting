@@ -30,8 +30,6 @@ This project combines Power BI and Python to analyze retail sales data and forec
 
 A Linear Regression model was used to predict future revenue based on historical monthly sales data.
 
-![Forecast](images/forecast.png)
-
 ## Project Structure
 
 ```text
